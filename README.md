@@ -1,7 +1,7 @@
 # vue-docs-demo
 组件库文档vuepress测试
 
-## feature
+## feature & todo
 - 多语言切换（中/英）
 - 多版本切换（v0.0.1/v0.0.2/v1.0.0）
 - 自定义主题（eject默认主题来自定义）
